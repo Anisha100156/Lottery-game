@@ -27,3 +27,7 @@ A dynamic and interactive lottery game built using React, where users generate r
 ![Photography Website](Preview1.png)  
 
 
+![Photography Website](Preview2.png)  
+
+
+
